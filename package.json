@@ -1,0 +1,11 @@
+{
+  "name": "riyato-site",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "live-server . --port=5500 --host=127.0.0.1 --open=/index.html"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

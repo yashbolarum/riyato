@@ -1,0 +1,13 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="500" fill="#0A1226"/>
+  <g transform="translate(90 80)">
+    <g stroke="#E9B44C" stroke-width="14" fill="none">
+      <circle cx="170" cy="170" r="150"/>
+      <ellipse cx="170" cy="170" rx="60" ry="150" opacity="0.85"/>
+      <ellipse cx="170" cy="170" rx="124" ry="150" opacity="0.5"/>
+    </g>
+    <rect x="34" y="163" width="272" height="14" rx="7" fill="#E9B44C" opacity="0.55"/>
+    <circle cx="250" cy="76" r="24" fill="#E9B44C"/>
+  </g>
+  <text x="520" y="305" font-family="Space Grotesk, Arial, sans-serif" font-size="270" font-weight="700" fill="#EEF1F8" letter-spacing="-8">Riyato</text>
+</svg>
